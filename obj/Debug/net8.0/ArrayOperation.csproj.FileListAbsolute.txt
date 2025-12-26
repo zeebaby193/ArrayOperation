@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ArrayOperation\bin\Debug\net8.0\ArrayOperation.exe
+C:\Users\User\Desktop\ArrayOperation\bin\Debug\net8.0\ArrayOperation.deps.json
+C:\Users\User\Desktop\ArrayOperation\bin\Debug\net8.0\ArrayOperation.runtimeconfig.json
+C:\Users\User\Desktop\ArrayOperation\bin\Debug\net8.0\ArrayOperation.dll
+C:\Users\User\Desktop\ArrayOperation\bin\Debug\net8.0\ArrayOperation.pdb
+C:\Users\User\Desktop\ArrayOperation\obj\Debug\net8.0\ArrayOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ArrayOperation\obj\Debug\net8.0\ArrayOperation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ArrayOperation\obj\Debug\net8.0\ArrayOperation.AssemblyInfo.cs
+C:\Users\User\Desktop\ArrayOperation\obj\Debug\net8.0\ArrayOperation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ArrayOperation\obj\Debug\net8.0\ArrayOperation.sourcelink.json
+C:\Users\User\Desktop\ArrayOperation\obj\Debug\net8.0\ArrayOperation.dll
+C:\Users\User\Desktop\ArrayOperation\obj\Debug\net8.0\refint\ArrayOperation.dll
+C:\Users\User\Desktop\ArrayOperation\obj\Debug\net8.0\ArrayOperation.pdb
+C:\Users\User\Desktop\ArrayOperation\obj\Debug\net8.0\ArrayOperation.genruntimeconfig.cache
+C:\Users\User\Desktop\ArrayOperation\obj\Debug\net8.0\ref\ArrayOperation.dll
